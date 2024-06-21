@@ -8,7 +8,7 @@ Clone the repository:
 
 ```sh
 git clone https://github.com/ameer-w-ali/slidely-backend.git
-cd alemeno-assignment
+cd slidely-backend
 ```
 
 Install dependencies:
